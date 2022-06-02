@@ -309,7 +309,7 @@ img {
 
 .navbar-custom .avatar-container {
   position: absolute;
-  padding: 9rem 0 0.675rem 1rem;
+  padding: 12rem 0 0.675rem 1rem;
   left: 50%;
   width: 8rem;
   bottom: -1.5rem;
@@ -327,7 +327,7 @@ img {
 
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
-  margin-left: -50%;
+  margin-left: 0%;
   /* {% unless site.round-avatar == false %}
     border-radius: 50%;
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0);
