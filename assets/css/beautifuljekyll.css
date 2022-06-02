@@ -312,7 +312,7 @@ img {
   padding: 1rem 1rem 1rem 1rem;
   left: 50%;
   width: 8rem;
-  top: -1rem; 
+  top: -0rem; 
   bottom: -1rem;
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
@@ -352,8 +352,8 @@ img {
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 8rem;
-    bottom: -1.9375rem;
-    top: -1.9375rem;
+    bottom: -1rem;
+    top: -0rem;
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
